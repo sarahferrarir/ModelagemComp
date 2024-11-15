@@ -22,7 +22,7 @@ Os valores iniciais escolhidos, combinados com o método de Newton-Raphson, perm
 
 ## Bissecção 
 
-O código em Python abaixo implementa o Método da Bissecção, uma técnica numérica para encontrar raízes de funções contínuas em um intervalo `[a, b]`. O método divide o intervalo ao meio iterativamente, selecionando a sub-região onde ocorre uma mudança de sinal da função, até atingir a precisão desejada ou o número máximo de 100 iterações. Ele garante a convergência para uma raiz se o intervalo inicial contiver uma mudança de sinal.
+O código em Python implementa o Método da Bissecção, uma técnica numérica para encontrar raízes de funções contínuas em um intervalo `[a, b]`. O método divide o intervalo ao meio iterativamente, selecionando a sub-região onde ocorre uma mudança de sinal da função, até atingir a precisão desejada ou o número máximo de 100 iterações. Ele garante a convergência para uma raiz se o intervalo inicial contiver uma mudança de sinal.
 
 ### Obtenção dos Intervalos
 
